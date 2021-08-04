@@ -117,7 +117,7 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  test
+  <span style="text-align: center">Experienced and dedicated Data Analyst with several years of experience identifying efficiencies and problem areas within data streams, while communicating needs for projects. Bringing forth the ability to synthesize quantitative information and interact effectively with colleagues and clients. Proven track record of generating summary documents for senior management for monthly and quarterly audit and compliance reporting.</span>
 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
